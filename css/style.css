@@ -138,6 +138,7 @@ a:active {
 }
 
 .event-list {
+  margin-top: 12vh;
   width: fit-content;
   text-align: left;
   padding: 24px;
@@ -400,8 +401,7 @@ a:active {
 /**************Section-Seconde*************/
 .second-section {
   width: 100vw;
-  height: 115vh;
-  padding-top: 10vh;
+  height: 100vh;
   background-color: #faf3e3;
 }
 
