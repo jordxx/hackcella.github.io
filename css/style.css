@@ -155,7 +155,7 @@ a:active {
 
 /***************************** WRAPPER *****************************/
 #slidy {
-  height: 850px;
+  height: 100vh;
   padding: auto;
 }
 
